@@ -2,7 +2,7 @@
 
 Title: Hypothesis - Secondary blast injury produces neuroanatomical damage that results in divergent motor and spatial outcomes among SBI cohorts.
 
-Author: Amanda Simon 
+Author: Amanda Simon, John Smith 
 
 Comment: "help me pls"
 
