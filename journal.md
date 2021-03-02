@@ -4,7 +4,7 @@ Title: Hypothesis - Secondary blast injury produces neuroanatomical damage that 
 
 Author: Amanda Simon 
 
-insert author afilliations in new order
+insert author affiliations
 
 Comment: "help me pls"
 
